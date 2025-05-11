@@ -82,7 +82,7 @@ frontend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/GoRide.git
+git clone https://github.com/sakshi04-ui/GoRide.gitt
 cd GoRide
 ```
 
